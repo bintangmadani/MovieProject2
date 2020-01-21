@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Movie Project 2</string>
+
+    <string name="title_aladdin">Aladdin (2019)</string>
+    <string name="title_joker">Joker (2019)</string>
+    <string name="title_doctor">Doctor Sleep (2019)</string>
+    <string name="title_spiderman">Spider-Man: Far from Home (2019)</string>
+    <string name="title_zombieland">Zombieland: Double Tap (2019)</string>
+    <string name="title_fast">Fast and Furious Presents: Hobbs and Shaw (2019)</string>
+    <string name="title_theking">The King (2019)</string>
+    <string name="title_thelion">The Lion King (2019)</string>
+    <string name="title_onepiece">One Piece: Stampede (2019)</string>
+    <string name="title_dora">Dora and the Lost City of Gold (2019)</string>
+    <string name="title_goodboy">Good Boys (2019)</string>
+    <string name="title_it">It Chapter Two (2019)</string>
+    <string name="title_john">John Wick: Chapter 3 - Parabellum (2019)</string>
+    <string name="overview_aladdin">A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.</string>
+    <string name="overview_joker">"During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure."</string>
+    <string name="overview_zombieland">"Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family."</string>
+    <string name="overview_doctor">A traumatized, alcoholic Dan Torrance meets Abra, a kid who also has the ability to \"shine.\" He tries to protect her from the True Knot, a cult whose goal is to feed off of people like them in order to remain immortal.</string>
+    <string name="overview_spiderman">"Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent."</string>
+    <string name="overview_fast">Ever since US Diplomatic Security Service Agent Hobbs and lawless outcast Shaw first faced off, they just have swapped smacks and bad words. But when cyber-genetically enhanced anarchist Brixton\'s ruthless actions threaten the future of humanity, both join forces to defeat him. (A spin-off of “The Fate of the Furious,” focusing on Johnson\'s Luke Hobbs and Statham\'s Deckard Shaw.)</string>
+    <string name="overview_theking">"England, 15th century. Hal, a capricious prince who lives among the populace far from court, is forced by circumstances to reluctantly accept the throne and become Henry V."</string>
+    <string name="thelion">"Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub\'s arrival. Scar, Mufasa\'s brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba\'s exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his."</string>
+    <string name="overview_onepiece">"One Piece: Stampede is a stand-alone film that celebrates the anime\'s 20th Anniversary and takes place outside the canon of the \"One Piece\" TV series. Monkey D. Luffy and his Straw Hat pirate crew are invited to a massive Pirate Festival that brings many of the most iconic characters from throughout the franchise to participate in competition with the Straw Hats to find Roger\'s treasure. It also pits the Straw Hats against a new enemy named Bullet, a former member of Roger\'s crew."</string>
+    <string name="overview_dora">Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.</string>
+    <string name="overview_goodboy">A group of young boys on the cusp of becoming teenagers embark on an epic quest to fix their broken drone before their parents get home.</string>
+    <string name="overview_it">27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers\' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.</string>
+    <string name="overview_john">"Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn."</string>
+
+    <string name="title_theflash">The Flash (2014)</string>
+    <string name="title_family">Family Guy (1999)</string>
+    <string name="title_naruto">Naruto Shippūden (2007)</string>
+    <string name="title_legacies">Legacies (2018)</string>
+    <string name="title_stranger">Stranger Things (2016)</string>
+    <string name="title_dragon">Dragon Ball (1986)</string>
+    <string name="title_robot">Mr. Robot (2015)</string>
+    <string name="title_pokemon">Pokemon</string>
+    <string name="title_tom">Tom Clancy\'s Jack Ryan (2018)</string>
+    <string name="title_gumball">The Amazing World of Gumball (2011)</string>
+    <string name="title_batman">The Batman (2004)</string>
+    <string name="title_punchman">One Punch Man</string>
+    <string name="title_boruto">Boruto</string>
+    <string name="overview_theflash">After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won\'t be long before the world learns what Barry Allen has become...The Flash.</string>
+    <string name="overview_family">"Sick, twisted, politically incorrect and Freakin\' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he\'s not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues."</string>
+    <string name="overview_naruto">"Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki."</string>
+    <string name="overview_legacies">In a place where young witches, vampires, and werewolves are nurtured to be their best selves in spite of their worst impulses, Klaus Mikaelson’s daughter, 17-year-old Hope Mikaelson, Alaric Saltzman’s twins, Lizzie and Josie Saltzman, among others, come of age into heroes and villains at The Salvatore School for the Young and Gifted.</string>
+    <string name="overview_stranger">When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.</string>
+    <string name="overview_dragon">Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy was on his own, but easily managed. Then one day, Goku met a teenage girl named Bulma, whose search for the mystical Dragon Balls brought her to Goku\'s home. Together, they set off to find all seven and to grant her wish.</string>
+    <string name="overview_robot">A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.</string>
+    <string name="overview_pokemon">Join Ash Ketchum, accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.</string>
+    <string name="overview_tom">When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.</string>
+    <string name="overview_punchman">Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he’s become so strong that he’s practically invincible. In fact, he’s too strong—even his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies every day, how much longer can he keep it going?</string>
+    <string name="overview_batman">The Batman is an American animated television series produced by Warner Bros. Animation based on the DC Comics superhero Batman. It ran from September 11, 2004 to March 22, 2008, on the Saturday morning television block Kids\' WB.</string>
+    <string name="overview_gumball">The life of Gumball Watterson, a 12-year old cat who attends middle school in Elmore. Accompanied by his pet, adoptive brother, and best friend Darwin Watterson, he frequently finds himself involved in various shenanigans around the city, during which he interacts with various family members: Anais, Richard, and Nicole Watterson, and other various citizens.</string>
+    <string name="overview_boruto">"Naruto was a young shinobi with an incorrigible knack for mischief. He achieved his dream to become the greatest ninja in the village and his face sits atop the Hokage Monument. But this is not his story. A new generation of ninja are ready to take the stage, led by Naruto\'s own son, Boruto."</string>
+
+
+
+    <string name="tabs_text_1">Movies</string>
+    <string name="tabs_text_2">Tv Shows</string>
+
+
+
+</resources>
